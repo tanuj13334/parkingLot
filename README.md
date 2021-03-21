@@ -3,7 +3,7 @@ Design a parking lot using Python
 
 # Description
 
-This repository gives an overview of how we can design a basic parking lot in Python. It creates parking lot with given number of slots.
+This repository gives an overview of how we can design a basic parking lot in Python. It creates parking lot with given capacity.
 
 parking_lot.py script defines the following functions -
 
