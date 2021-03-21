@@ -13,6 +13,6 @@ parking_lot.py script defines the following functions -
 There are few query functions to retrieve slot number from registration number of car, get registration numbers of cars from driver age etc.
 
 
-parking_lot.py can be run through file containing test cases. An example "python parking_lot.py -f sample_input_TCs"
+parking_lot.py can be run through file containing test cases. An example "python parking_lot.py -f input.txt"
 Vehicle.py is a separate class where we can define the type of vehicles that can be parked. As of now, it only contains class Car
 
