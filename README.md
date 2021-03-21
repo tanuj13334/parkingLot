@@ -7,8 +7,8 @@ This repository gives an overview of how we can design a basic parking lot in Py
 
 parking_lot.py script defines the following functions -
 
-create_parking_lot n - Given n number of slots, create a parking lot
-park - park a given car in next empty slot with registration number and driver's age.
+"create_parking_lot n" - Given n number of slots, create a parking lot
+"park" - park a given car in next empty slot with registration number and driver's age.
 leave x - Removes vehicle from slot number x
 There are few query functions to retrieve slot number from registration number of car, get registration numbers of cars from driver age etc.
 
